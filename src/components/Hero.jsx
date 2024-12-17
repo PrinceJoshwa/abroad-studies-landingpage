@@ -35,7 +35,7 @@ import backgroundImage from '../assets/bgimg3.jpeg'; // Import the image from th
 function Hero() {
   return (
     <section 
-      className="bg-blue-900 text-white py-20 md:py-32 bg-cover bg-center bg-no-repeat relative" 
+       id='hero' className="bg-blue-900 text-white py-20 md:py-32 bg-cover bg-center bg-no-repeat relative" 
       style={{ backgroundImage: `url(${backgroundImage})` }}
     >
       {/* Overlay for better text visibility */}

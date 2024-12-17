@@ -55,7 +55,7 @@ const services = [
     title: 'Destination Study Support',
     icon: GraduationCap,
     description: 'We provide comprehensive support for various study destinations, including the UK, USA, Canada, Australia, and more.',
-    color: 'text-purple-500'
+    color: 'text-blue-500'
   },
   {
     title: 'Admission & Application Support',
@@ -67,7 +67,7 @@ const services = [
 
 function Services() {
   return (
-    <section id="services" className="py-20 bg-gray-50">
+    <section id="services" className="py-18 bg-gray-50">
       <div className="container mx-auto px-4">
         <motion.div
           initial={{ opacity: 0, y: 20 }}

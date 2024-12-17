@@ -27,7 +27,7 @@ function Contact() {
             </div>
             <motion.button 
               type="submit" 
-              className="bg-blue-900 text-white px-6 py-3 rounded-full font-semibold hover:bg-blue-800 transition-colors"
+              className="bg-blue-800 text-white px-6 py-3 rounded-full font-semibold hover:bg-blue-800 transition-colors"
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}
             >

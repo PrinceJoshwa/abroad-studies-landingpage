@@ -166,13 +166,13 @@ function EndToEndSupport() {
           transition={{ duration: 0.6, delay: 0.4 }}
           className="text-center mt-12"
         >
-          <motion.button
+          {/* <motion.button
             className="bg-blue-600 text-white px-8 py-3 rounded-full text-lg font-semibold hover:bg-blue-700 transition-colors"
             whileHover={{ scale: 1.05 }}
             whileTap={{ scale: 0.95 }}
           >
             Get Started Now
-          </motion.button>
+          </motion.button> */}
         </motion.div>
       </div>
     </section>
