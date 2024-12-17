@@ -9,7 +9,7 @@
 
 // function Testimonials() {
 //   return (
-//     <section id="testimonials" className="py-20 bg-blue-900 text-white">
+//     <section id="testimonials" className="py-16 bg-blue-900 text-white">
 //       <div className="container mx-auto px-4">
 //         <h2 className="text-3xl md:text-4xl font-bold text-center mb-12">What Students Say</h2>
 //         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
@@ -180,7 +180,7 @@ function RatingCard({ platform, rating }) {
 
 function Testimonials() {
   return (
-    <section className="py-20 bg-blue-50/50">
+    <section className="py-16 bg-blue-50/50">
       <div className="container mx-auto px-4">
         <motion.h2 
           className="text-3xl md:text-4xl font-bold text-center mb-12 text-blue-900"
