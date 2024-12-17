@@ -50,13 +50,14 @@ function Hero() {
         >
           <h2 className="text-4xl md:text-6xl font-bold mb-4">Talk to Study Abroad Experts Today</h2>
           <p className="text-xl md:text-2xl mb-8">For Free Expert Counselling Sessions</p>
-          <motion.button 
+          <motion.a
+            href='#services'
             className="bg-orange-500 text-white px-8 py-3 rounded-full text-lg font-semibold hover:bg-orange-600 transition-colors"
             whileHover={{ scale: 1.05 }}
             whileTap={{ scale: 0.95 }}
           >
             Get Started
-          </motion.button>
+          </motion.a>
         </motion.div>
       </div>
     </section>

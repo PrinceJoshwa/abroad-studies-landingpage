@@ -51,13 +51,14 @@ function SOP() {
         >
           <h2 className="text-3xl md:text-4xl font-bold mb-4">Write a Standout SOP with Expert Guidance!</h2>
           <p className="text-xl mb-8">We Craft the Perfect Statement of Purpose for You!</p>
-          <motion.button 
+          <motion.a 
+            href='#contact'
             className="bg-white text-orange-500 px-8 py-3 rounded-full text-lg font-semibold hover:bg-gray-100 transition-colors"
             whileHover={{ scale: 1.05 }}
             whileTap={{ scale: 0.95 }}
           >
             Start Your SOP Today
-          </motion.button>
+          </motion.a>
         </motion.div>
       </div>
     </section>

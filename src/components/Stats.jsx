@@ -52,7 +52,7 @@ const stats = [
 
 function Stats() {
   return (
-    <section className="py-16 bg-gradient-to-b from-blue-50 to-white overflow-hidden">
+    <section id="stats" className="py-16 bg-gradient-to-b from-blue-50 to-white overflow-hidden">
       <div className="container mx-auto px-4">
         <div className="flex flex-col lg:flex-row items-center justify-between">
           <motion.div
