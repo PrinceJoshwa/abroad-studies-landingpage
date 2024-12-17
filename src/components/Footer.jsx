@@ -65,7 +65,7 @@ function Footer() {
             <Phone className="w-12 h-12 mb-4" />
             <h3 className="text-xl font-semibold mb-2">Call Us</h3>
             <a href="tel:+917092537669" className="hover:underline">+91 7092537669</a>
-            <a href="mailto:sprincejoshwa66@gmail.com" className="hover:underline">sprincejoshwa66@gmail.com</a>
+            <a href="mailto:sprincejoshwa66@gmail.com" className="hover:underline">example@gmail.com</a>
 
           </motion.div>
           <motion.div 
