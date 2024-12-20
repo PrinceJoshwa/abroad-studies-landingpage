@@ -71,6 +71,7 @@
 //   )
 // }
 
+//CourseCard.jsx
 import { motion } from 'framer-motion'
 import { Heart, ChevronRight } from 'lucide-react'
 

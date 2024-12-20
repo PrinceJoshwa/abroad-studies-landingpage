@@ -4,7 +4,7 @@
 
 // function WhatsAppChat() {
 //   const [isOpen, setIsOpen] = useState(false)
-//   const phoneNumber = '+917092537669' // Replace with your actual WhatsApp number
+//   const phoneNumber = '+911234567890' // Replace with your actual WhatsApp number
 //   const message = encodeURIComponent('Hi, I\'m interested in studying abroad. Can you help me?')
 
 //   const toggleChat = () => setIsOpen(!isOpen)
@@ -73,7 +73,7 @@
 
 // function WhatsAppChat() {
 //   const [isOpen, setIsOpen] = useState(false)
-//   const phoneNumber = '+917092537669' // Replace with your actual WhatsApp number
+//   const phoneNumber = '+911234567890' // Replace with your actual WhatsApp number
 //   const message = encodeURIComponent('Hi, I\'m interested in studying abroad. Can you help me?')
 
 //   const toggleChat = () => setIsOpen(!isOpen)
@@ -153,7 +153,7 @@ config.autoAddCss = false
 
 function WhatsAppChat() {
   const [isOpen, setIsOpen] = useState(false)
-  const phoneNumber = '+917092537669' // Replace with your actual WhatsApp number
+  const phoneNumber = '+911234567890' // Replace with your actual WhatsApp number
   const message = encodeURIComponent('Hi, I\'m interested in studying abroad. Can you help me?')
 
   const toggleChat = () => setIsOpen(!isOpen)

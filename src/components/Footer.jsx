@@ -12,8 +12,8 @@
 //           </div>
 //           <div className="w-full md:w-1/3 mb-6 md:mb-0">
 //             <h4 className="text-lg font-semibold mb-2">Contact</h4>
-//             <p>Email: sprincejoshwa66@gmail.com</p>
-//             <p>Phone: +91 7092537669</p>
+//             <p>Email: example@gmail.com</p>
+//             <p>Phone: +91 1234567890</p>
 //             <p>Address: Sarjapur road, Bangalore, Karnataka, India</p>
 //           </div>
 //           {/* <div className="w-full md:w-1/3">
@@ -64,8 +64,8 @@ function Footer() {
           >
             <Phone className="w-12 h-12 mb-4" />
             <h3 className="text-xl font-semibold mb-2">Call Us</h3>
-            <a href="tel:+917092537669" className="hover:underline">+91 7092537669</a>
-            <a href="mailto:sprincejoshwa66@gmail.com" className="hover:underline">example@gmail.com</a>
+            <a href="tel:+911234567890" className="hover:underline">+91 1234567890</a>
+            <a href="mailto:example@gmail.com" className="hover:underline">example@gmail.com</a>
 
           </motion.div>
           <motion.div 
@@ -105,7 +105,7 @@ function Footer() {
             <FontAwesomeIcon icon={faWhatsapp} size="2xl" className="w-12 h-12 mb-4"/>
             <h3 className="text-xl font-semibold mb-2">WhatsApp</h3>
             <motion.a 
-              href="https://wa.me/917092537669"
+              href="https://wa.me/911234567890"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-green-500 text-white px-6 py-2 rounded-full text-lg font-semibold hover:bg-green-600 transition-colors"
